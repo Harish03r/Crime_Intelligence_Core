@@ -8,6 +8,14 @@ An AI-powered crime intelligence system with role-based multi-agent architecture
 ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 🚀 Quick Deploy
+
+[![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/new?repo=Harish03r/Crime_Intelligence_Core&mainModule=streamlit_app.py)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Harish03r/Crime_Intelligence_Core)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/streamlit)
+
 ## 🌟 Features
 
 ### Multi-Agent Architecture
